@@ -40,6 +40,7 @@
 								vi file1.txt (нажать Insert, отредактировать текст, нажать Esc, :wq, Enter)  
 								vi file3.txt (нажать Insert, отредактировать текст, нажать Esc, :wq, Enter) 
 
+
 Задание 2
 
 1. Создать папку test 3 ===	cd ..
